@@ -1,1 +1,1 @@
-https://github.com/lukaskim321/W2021-185pa1.git
+https://lukaskim321.github.io/W2021-185pa1/.
